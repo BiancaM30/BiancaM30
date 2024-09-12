@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bianca-stefania-munteanu-62688a231) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-stefania-munteanu-62688a231/) 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-%230077B5.svg?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Bianca-Stefania-Munteanu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:munteanubiancastefania@gmail.com)
 
