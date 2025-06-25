@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m Bianca <br>🌍 Passionate about transforming data into insights, I'm currently pursuing my Master's in Databases at Babeș-Bolyai University.  <br>👩‍💻 Coding isn't just what I do; it's how I solve problems. Whether it's Python,  Java, or SQL, I'm always up for a new challenge.  <br>🧠 Applied AI in Healthcare: I'm passionate about leveraging AI to improve medical diagnoses and healthcare systems, aiming to bridge technology and medicine for a better tomorrow.  <br>📚 Let's Connect: Always open to discussing new ideas, collaborating, or simply sharing insights into tech and healthcare!
+I’m currently pursuing a Master’s degree in Databases at Babeș-Bolyai University, where I focus on transforming data into meaningful insights. My background blends software engineering with a strong interest in artificial intelligence, particularly in its applications to healthcare.
+
+I enjoy solving real-world problems through code — whether it’s with Python, Java, or SQL — and I'm always curious about how technology can drive innovation. Lately, my work has focused on using AI to support medical diagnostics and build smarter, more reliable healthcare systems.
+
+If you’re working on something exciting at the intersection of tech and health — or just want to talk ideas — I’d love to connect.
 
 
 ## 🌐 Socials:
