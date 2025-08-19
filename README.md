@@ -1,9 +1,9 @@
 # 💫 About Me:
 I’m a software developer with a background in Computer Science and a Master’s degree in Databases, focused on transforming data into meaningful insights. My background blends software engineering with a strong interest in artificial intelligence, particularly in its applications to healthcare.
 
-I enjoy solving real-world problems through code — whether it’s with Python, Java, or SQL — and I'm always curious about how technology can drive innovation. Lately, my work has focused on using AI to support medical diagnostics and build smarter, more reliable healthcare systems.
+I enjoy solving real-world problems through code, whether it’s with Python, Java, or SQL, and I'm always curious about how technology can drive innovation. Lately, my work has focused on using AI to support medical diagnostics and build smarter, more reliable healthcare systems.
 
-If you’re working on something exciting at the intersection of tech and health — or just want to talk ideas — I’d love to connect.
+If you’re working on something exciting at the intersection of tech and health, or just want to talk ideas, I’d love to connect.
 
 
 ## 🌐 Socials:
